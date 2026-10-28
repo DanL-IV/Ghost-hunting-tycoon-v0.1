@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6fac2ebe00817694c9fe29f352304a5d, type: 3}
+  m_Name: Josh Smith
+  m_EditorClassIdentifier: Assembly-CSharp::EmployeeData
+  employeeName: Josh Smith
+  biography: 
+  role: 0
+  level: 1
+  salary: 100
+  trait1: 1
+  trait2: 9
+  investigationSkill: 40
+  recordingSkill: 30
+  exorcismSkill: 10
